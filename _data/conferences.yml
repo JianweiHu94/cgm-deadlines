@@ -11,17 +11,6 @@
   place: Cardiff, Wales, UK
   sub: CV
 
-- title: EMNLP-IJCNLP
-  year: 2019
-  id: emnlp-ijcnlp19
-  link: http://emnlp-ijcnlp2019.org/
-  deadline: '2019-05-21 23:59:59'
-  timezone: UTC-7
-  date: November 3-7, 2019
-  place: Hong Kong
-  sub: NLP
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on May 15. More info
-    <a href="https://www.emnlp-ijcnlp2019.org/calls/papers/">here</a>.'
 
 - title: NeurIPS
   year: 2019
