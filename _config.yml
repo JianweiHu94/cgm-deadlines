@@ -1,15 +1,13 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: CAD Conference Deadlines # (Maintained by @JianweiHu94)
 
-domain: "aideadlin.es"
+description: Countdowns to top *** conference deadlines
+author: Jianwei Hu
+
+domain: "caddeadlin.es"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+github_username: JianweiHu94
+github_repo: ca-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
