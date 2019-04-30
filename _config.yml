@@ -7,7 +7,7 @@ domain: "caddeadlin.es"
 baseurl: ""
 
 github_username: JianweiHu94
-github_repo: ca-deadlines
+github_repo: cad-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
