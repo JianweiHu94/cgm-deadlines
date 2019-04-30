@@ -9,7 +9,8 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 branches:
   only:
-    - master
+  - gh-pages
+  - /.*/
 notifications:
   on_success: never
   on_failure: always
