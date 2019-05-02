@@ -1,6 +1,6 @@
 ---
 
-- title: ACMMM 2019
+- title: ACMMM
   year: 2019
   id: acmmm2019
   link: https://www.acmmm.org/2019
@@ -9,7 +9,7 @@
   place: Nice, France
   sub: MM
   
-- title: SIGGRAPH ASIA 2019
+- title: SIGGRAPH ASIA
   year: 2019
   id: sigasia2019
   link: https://sa2019.siggraph.org
@@ -19,7 +19,7 @@
   place: Brisbane, Australia
   sub: GP
 
-- title: EuroGraphics 2019
+- title: EuroGraphics
   year: 2019
   id: eg2019
   link: https://www.eurographics2019.it
@@ -29,7 +29,7 @@
   place: Genova, Italy
   sub: GP
 
-- title: I3D 2019
+- title: I3D
   year: 2019
   id: i3d2019
   link: http://i3dsymposium.github.io/2019
@@ -39,7 +39,7 @@
   place: Montreal, Quebec, Canada
   sub: GP
 
-- title: EGSR 2019
+- title: EGSR
   year: 2019
   id: egsr2019
   link: http://egsr2019.icube.unistra.fr
@@ -49,7 +49,7 @@
   place: Strasbourg, France
   sub: GP
 
-- title: SCA 2019
+- title: SCA
   year: 2019
   id: sca2019
   link: https://sca2019.kaist.ac.kr
@@ -60,7 +60,7 @@
   sub: GP
   
 
-- title: SGP 2019
+- title: SGP
   year: 2019
   id: sgp2019
   link: https://sgp2019.di.unimi.it/
@@ -70,7 +70,7 @@
   place: Milan, Italy
   sub: GP
 
-- title: HPG 2019
+- title: HPG
   year: 2019
   id: hpg2019
   link: https://www.highperformancegraphics.org/2019/
@@ -80,7 +80,7 @@
   place: Strasbourg, France
   sub: GP
 
-- title: Pacific Graphics 2019
+- title: Pacific Graphics
   year: 2019
   id: pg2019
   link: http://pg19.org/
@@ -90,7 +90,7 @@
   place: Seoul, Korea
   sub: GP
 
-- title: Pacific Graphics 2019
+- title: Pacific Graphics
   year: 2019
   id: pg2019
   link: http://pg19.org/
@@ -100,7 +100,7 @@
   place: Seoul, Korea
   sub: GP
 
-- title: GMP 2019
+- title: GMP
   year: 2019
   id: gmp2019
   link: https://gmpconf.github.io/GMP2019/index.html
@@ -110,7 +110,7 @@
   place: Vancouver, Canada
   sub: GP
 
-- title: CGI 2019
+- title: CGI
   year: 2019
   id: cgi2019
   link: http://www.cgs-network.org/cgi19/
@@ -120,7 +120,7 @@
   place: Calgary, Canada
   sub: GP
 
-- title: SPM 2019
+- title: SPM
   year: 2019
   id: smp2019
   link: https://project.inria.fr/spm2019/
@@ -130,13 +130,32 @@
   place: Vancouver, Canada
   sub: GP
 
-- title: SPM 2019
+- title: GRAPHICS INTERFACE
   year: 2019
-  id: smp2019
-  link: https://project.inria.fr/spm2019/
-  deadline: '2019-02-08 23:59:59'
-  timezone: 
-  date: June 17-19, 2019
-  place: Vancouver, Canada
+  id: gi2019
+  link: http://graphicsinterface.org/conference/2019/
+  deadline: '2018-12-22 23:59:00'
+  timezone: EST
+  date: May 28-31, 2019
+  place: Ontario, Canada
   sub: GP
 
+- title: VRIP
+  year: 2019
+  id: virp2019
+  link: http://www.vrip.org/
+  deadline: '2019-05-20 23:59:00'
+  timezone: 
+  date: August 22-24, 2019
+  place: Melbourne, Australia
+  sub: GP
+
+- title: HCI
+  year: 2019
+  id: hci2019
+  link: http://2019.hci.international/
+  deadline: '2019-05-20 23:59:00'
+  timezone: 
+  date: July 26-31, 2019
+  place: Melbourne, Australia
+  sub: GP
