@@ -1,9 +1,4 @@
 <div align="center">
-  <a href="https://github.com/LukasMosser/geo-deadlines">
-    <img width="150" heigth="150" src="fig/geodeadlines_logo.svg">
-  </a>
-  <br>
-  <br>
 
   <h1>Geo Deadlines</h1>
   <p>
