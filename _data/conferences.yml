@@ -18,7 +18,7 @@
   timezone: 
   date: August 22-24, 2019
   place: Melbourne, Australia
-  sub: GP
+  sub: VR
 
 - title: HCI
   year: 2019
@@ -28,7 +28,7 @@
   timezone: 
   date: July 26-31, 2019
   place: Orlando, Florida, USA
-  sub: GP
+  sub: HCI
 
 - title: Pacific Graphics
   year: 2019
@@ -130,7 +130,7 @@
   deadline: '2019-04-08 23:59:59'
   date: October 21-25, 2019
   place: Nice, France
-  sub: GP
+  sub: MM
   
 - title: SGP
   year: 2019
