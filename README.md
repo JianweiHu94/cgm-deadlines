@@ -12,6 +12,7 @@
 
 * Create a fork of the repository to your own github account.  
 * Update `_data/conferences.yml` with the correct attributes.  
+* Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes.
 * Send a pull request.  
 
 
