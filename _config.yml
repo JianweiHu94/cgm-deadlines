@@ -1,13 +1,13 @@
 title: Computer Graphics and Multimedia Conference Deadlines # (Maintained by @JianweiHu94)
 
-description: Countdowns to top CG/CAD/MM conference deadlines
-author: Jianwei Hu
+description: Countdowns to top Computer Graphics and Multimedia conference deadlines
+author: JianweiHu94
 
-domain: "cgmdeadlin.xyz"
+domain: "www.cgmdeadlin.es"
 baseurl: ""
 
 github_username: JianweiHu94
-github_repo: cad-deadlines
+github_repo: cgm-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
