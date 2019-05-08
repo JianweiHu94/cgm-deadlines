@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://github.com/LukasMosser/geo-deadlines">
+    <img width="150" heigth="150" src="fig/geodeadlines_logo.svg">
+  </a>
+  <br>
+  <br>
+
+  <h1>Geo Deadlines</h1>
+  <p>
+    A community-driven collection of upcoming deadlines for Computer Graphics and Multimedia related conferences.
+    <br><a href="http://www.cgmdeadlin.es">www.cgmdeadlin.es</a>
+  <p>
+</div>
+
 
 <h2 align="center">How-to Contribute</h2>
 
