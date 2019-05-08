@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Geo Deadlines</h1>
+  <h1>CGM Deadlines</h1>
   <p>
     A community-driven collection of upcoming deadlines for Computer Graphics and Multimedia related conferences.
     <br><a href="http://www.cgmdeadlin.es">www.cgmdeadlin.es</a>
