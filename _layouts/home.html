@@ -201,11 +201,18 @@
         }
         // Hide unchecked subs
         //$('.' + '#{{conf.id}}' + '-conf').hide();
+        $('#' + confid).hide();
         {% for conf in site.data.conferences %}{
+          
           var confid = "{{conf.id}}";
           var confsub = "{{conf.sub}}";
           var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
-          $('#' + confid).hide();
+          for (var i = 0 ; i < subs.length; i++){
+            if (confsub == subs[i] || confsub1 == subs[i])
+              $('#' + confid).show();
+          }
+                                                                                      
+          
         }
         {% endfor %}
         
