@@ -201,13 +201,8 @@
         }
         // Hide unchecked subs
         
-        $('.' + {{conf.id}} + '-conf').hide();
-        // Hide current conf
-        for (var i = 0; i < subs.length; i++){
-          if ({{conf.sub}} == subs[i] || {{conf.sub1}} == subs[i])
-            $('.' + {{conf.id}} + '-conf').show();
-        }
-        store.set('{{ site.domain }}', subs);
+
+        
         // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
@@ -216,12 +211,10 @@
           var cid = $(this).prop('id');
           var csub = cid.substring(0, cid.length - 9);
           if (checked == true) {
-            $('.' + csub + '-conf').show();
             if (subs.indexOf(csub) < 0)
               subs.push(csub);
           }
           else {
-            $('.' + csub + '-conf').hide();
             var idx = subs.indexOf(csub);
             if (idx >= 0)
               subs.splice(idx, 1);
