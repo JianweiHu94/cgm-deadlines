@@ -11,17 +11,6 @@
   sub: GP
   sub1: CG
 
-- title: VRIP
-  year: 2019
-  id: virp2019
-  link: http://www.vrip.org/
-  deadline: '2019-05-20 23:59:59'
-  timezone: 
-  date: August 22-24, 2019
-  place: Melbourne, Australia
-  sub: VR
-  sub1: CG
-  
 - title: ICIG
   year: 2019
   id: icig2019
@@ -33,6 +22,17 @@
   sub: CG
   sub1: 
 
+- title: VRIP
+  year: 2019
+  id: virp2019
+  link: http://www.vrip.org/
+  deadline: '2019-05-20 23:59:59'
+  timezone: 
+  date: August 22-24, 2019
+  place: Melbourne, Australia
+  sub: VR
+  sub1: CG
+  
 - title: Pacific Graphics
   year: 2019
   id: pg2019
