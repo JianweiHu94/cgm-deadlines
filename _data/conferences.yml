@@ -31,6 +31,7 @@
   date: October 14-17, 2019
   place: Seoul, Korea
   sub: GP
+  sub1: GP
 
 - title: EuroGraphics
   year: 2019
@@ -41,6 +42,7 @@
   date: May 06-10, 2019
   place: Genova, Italy
   sub: GP
+  sub1: GP
 
 - title: I3D
   year: 2019
@@ -51,6 +53,7 @@
   date: May 21-23, 2019
   place: Montreal, Quebec, Canada
   sub: GP
+  sub1: GP
 
 - title: HCI
   year: 2019
@@ -61,6 +64,7 @@
   date: July 26-31, 2019
   place: Orlando, Florida, USA
   sub: HCI
+  sub1: HCI
 
 - title: GMP
   year: 2019
@@ -71,6 +75,7 @@
   date: June 19-21, 2019
   place: Vancouver, Canada
   sub: GP
+  sub1: GP
 
 - title: GRAPHICS INTERFACE
   year: 2019
@@ -81,6 +86,7 @@
   date: May 28-31, 2019
   place: Ontario, Canada
   sub: GP
+  sub1: GP
 
 - title: SPM
   year: 2019
@@ -91,6 +97,7 @@
   date: June 17-19, 2019
   place: Vancouver, Canada
   sub: GP
+  sub1: GP
 
 - title: HPG
   year: 2019
@@ -101,6 +108,7 @@
   date: July 08-10, 2019
   place: Strasbourg, France
   sub: GP
+  sub1: GP
 
 
 - title: SCA
@@ -112,6 +120,7 @@
   date: July 26-28, 2019
   place: Los Angeles, California
   sub: GP
+  sub1: GP
 
 - title: CGI
   year: 2019
@@ -122,6 +131,7 @@
   date: June 17-20, 2019
   place: Calgary, Canada
   sub: GP
+  sub1: GP
 
 - title: ACMMM
   year: 2019
@@ -131,6 +141,7 @@
   date: October 21-25, 2019
   place: Nice, France
   sub: MM
+  sub1: GP
   
 - title: SGP
   year: 2019
@@ -141,6 +152,7 @@
   date: July 08-10, 2019
   place: Milan, Italy
   sub: GP
+  sub1: GP
 
 - title: EGSR
   year: 2019
@@ -151,3 +163,4 @@
   date: July 10-12, 2019
   place: Strasbourg, France
   sub: GP
+  sub1: GP
