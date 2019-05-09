@@ -40,16 +40,6 @@
   place: Genova, Italy
   sub: GP
 
-- title: HCI
-  year: 2019
-  id: hci2019
-  link: http://2019.hci.international/
-  deadline: '2018-11-05 23:59:59'
-  timezone: 
-  date: July 26-31, 2019
-  place: Orlando, Florida, USA
-  sub: HCI
-
 - title: I3D
   year: 2019
   id: i3d2019
@@ -59,6 +49,16 @@
   date: May 21-23, 2019
   place: Montreal, Quebec, Canada
   sub: GP
+
+- title: HCI
+  year: 2019
+  id: hci2019
+  link: http://2019.hci.international/
+  deadline: '2018-11-05 23:59:59'
+  timezone: 
+  date: July 26-31, 2019
+  place: Orlando, Florida, USA
+  sub: HCI
 
 - title: GMP
   year: 2019
