@@ -228,6 +228,12 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
+          for (var i = 0; o < subs.length; i++){
+            if (subs.indexOf(all_subs[i]) > 0){
+               $('.' + all_subs[i] + '-conf').show();
+            }
+          }
+          
           // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
