@@ -146,9 +146,7 @@
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
           var confDate = moment.tz("{{conf.deadline}}", timezone);
-          var confid = "{{conf.id}}";
-          var confsub = "{{conf.sub}}";
-          var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
+          
           // render countdown timer
           $('#{{conf.id}} .timer').countdown(confDate.toDate(), function(event) {
             $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
@@ -203,9 +201,14 @@
         }
         // Hide unchecked subs
         //$('.' + '#{{conf.id}}' + '-conf').hide();
+        {% for conf in site.data.conferences %}{
+          var confid = "{{conf.id}}";
+          var confsub = "{{conf.sub}}";
+          var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
+          $('#' + confid.values()).hide();
+        }
+        {% endfor %}
         
-        //$('#' + confid).hide();
-        $(this).hide();
         //$('#' + 'sigasia2019').hide();
         // Hide current conf
         //for (var i = 0; i < subs.length; i++){
