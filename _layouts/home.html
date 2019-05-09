@@ -205,7 +205,7 @@
           var confid = "{{conf.id}}";
           var confsub = "{{conf.sub}}";
           var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
-          $('#' + confid.values()).hide();
+          $('#' + confid).hide();
         }
         {% endfor %}
         
