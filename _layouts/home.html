@@ -95,7 +95,7 @@
           </div>
           <div class="row">
             <div class="col-xs-12">
-              <span title="Click to only show {{conf.sub}} conferences" data-sub="{{conf.sub}}" class="conf-sub"></span>
+              <span title="Click to only show {{conf.sub1}} conferences" data-sub="{{conf.sub1}}" class="conf-sub1"></span>
             </div>
           </div>
           <hr>
@@ -171,7 +171,7 @@
             }
           });
           document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
-          $('#{{conf.id}} .conf-sub').html(sub2name["{{conf.sub}}"].toLocaleLowerCase());
+          $('#{{conf.id}} .conf-sub1').html(sub2name["{{conf.sub1}}"].toLocaleLowerCase());
 
           // check if date has passed, add 'past' class to it
           var today = moment();
