@@ -238,11 +238,13 @@
           var confsub = "{{conf.sub}}";
           var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
           $('#' + confid).hide();
+          var t= 0;
           for (var i = 0 ; i < subs.length; i++){
-            if (confsub == subs[i]) 
-              $('#' + confid).show();
-
-          }                                                                         
+            if (confsub == subs[i] || confsub1 == subs[i]) 
+              t = 1;
+          }
+          if (t == 1)   
+            $('#' + confid).show();
         {% endfor %}
           // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
         });
