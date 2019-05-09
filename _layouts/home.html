@@ -203,10 +203,11 @@
         //$('.' + '#{{conf.id}}' + '-conf').hide();
         
         {% for conf in site.data.conferences %}{
-          $('#' + confid).hide();
           var confid = "{{conf.id}}";
           var confsub = "{{conf.sub}}";
           var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
+          $('#' + confid).hide();
+         
           for (var i = 0 ; i < subs.length; i++){
             if (confsub == subs[i]) 
               $('#' + confid).show();
@@ -236,11 +237,12 @@
           store.set('{{ site.domain }}', subs);
            
             {% for conf in site.data.conferences %}{
-               $('#' + confid).hide();
                var confid = "{{conf.id}}";
                var confsub = "{{conf.sub}}";
                var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
                for (var i = 0 ; i < subs.length; i++){
+               $('#' + confid).hide();
+               
                   if (confsub == subs[i]) 
                     $('#' + confid).show();
                   if (confsub1 == subs[i]))
