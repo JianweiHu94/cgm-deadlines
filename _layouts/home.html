@@ -236,19 +236,7 @@
           console.log(subs);
           store.set('{{ site.domain }}', subs);
            
-            {% for conf in site.data.conferences %}{
-               var confid = "{{conf.id}}";
-               var confsub = "{{conf.sub}}";
-               var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
-               for (var i = 0 ; i < subs.length; i++){
-               $('#' + confid).hide();
-               
-                  if (confsub == subs[i]) 
-                    $('#' + confid).show();
-                  if (confsub1 == subs[i]))
-                    $('#' + confid).show();
-               }   
-            {% endfor %}
+            
           // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
