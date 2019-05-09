@@ -177,7 +177,8 @@
           });
           document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
           $('#{{conf.id}} .conf-sub').html(sub2name["{{conf.sub}}"].toLocaleLowerCase());
-
+          $('#{{conf.id}} .conf-sub1').html(sub2name["{{conf.sub1}}"].toLocaleLowerCase());
+                                                                                                  
           // check if date has passed, add 'past' class to it
           var today = moment();
           if (today.diff(confDate) > 0)
