@@ -137,7 +137,7 @@
           sub2name[conf_type_data[i]['sub']] = conf_type_data[i]['name'];
           name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
         }
-
+        
         {% for conf in site.data.conferences %}
         {% if conf.deadline == "TBA" %}
           $('#{{conf.id}} .timer').html("TBA");
