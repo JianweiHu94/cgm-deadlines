@@ -96,12 +96,13 @@
           <div class="row">
             <div class="col-xs-24">
               <span data-sub="{{conf.sub}}" class="conf-sub"></span>
-            </div>
-            {% if conf.sub1 != conf.sub %}
-              <div class="col-xs-24">
+              {% if conf.sub1 != conf.sub %}
+              
                  <span data-sub="{{conf.sub1}}" class="conf-sub1"></span>
-              </div>
+             
             {% endif %}
+            </div>
+            
           </div>
           <hr>
         </div>
