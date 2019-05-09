@@ -61,7 +61,7 @@
             </div>
         </div>
         {% for conf in site.data.conferences %}
-        <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+        <div id="{{conf.id}}" class="{{conf.id}}-conf">
           <div class="row conf-row">
               <div class="col-xs-5 col-sm-6">
                   <a class="conf-title" href="/conference?id={{ conf.id }}">{{conf.title}} {{conf.year}}</a>
@@ -200,10 +200,12 @@
           }
         }
         // Hide unchecked subs
-        for (var i = 0; i < all_subs.length; i++) {
-          if (subs.indexOf(all_subs[i]) < 0) {
-            $('.' + all_subs[i] + '-conf').hide();
-          }
+        
+        $('.' + {{conf.id}} + '-conf').hide();
+        // Hide current conf
+        for (var i = 0; i < subs.length; i++){
+          if ({{conf.sub}} == subs[i] || {{conf.sub1}} == subs[i])
+            $('.' + {{conf.id}} + '-conf').show();
         }
         store.set('{{ site.domain }}', subs);
         // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
