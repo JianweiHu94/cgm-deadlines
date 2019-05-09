@@ -22,6 +22,17 @@
   sub: VR
   sub1: CG
 
+- title: ICIG
+  year: 2019
+  id: icig2019
+  link: http://icig2019.csig.org.cn/
+  deadline: '2019-05-20 23:59:59'
+  timezone: UTC
+  date: August 23-25, 2019
+  place: Beijing, China
+  sub: CG
+  sub1: 
+
 - title: Pacific Graphics
   year: 2019
   id: pg2019
@@ -41,7 +52,7 @@
   timezone: UTC
   date: May 06-10, 2019
   place: Genova, Italy
-  sub: GP
+  sub: CG
   sub1: GP
 
 - title: I3D
@@ -52,8 +63,8 @@
   timezone: EST
   date: May 21-23, 2019
   place: Montreal, Quebec, Canada
-  sub: GP
-  sub1: GP
+  sub: CG
+  sub1: HCI
 
 - title: HCI
   year: 2019
@@ -85,7 +96,7 @@
   timezone: EST
   date: May 28-31, 2019
   place: Ontario, Canada
-  sub: GP
+  sub: CG
   sub1: GP
 
 - title: SPM
@@ -107,7 +118,7 @@
   timezone: UTC/GMT
   date: July 08-10, 2019
   place: Strasbourg, France
-  sub: GP
+  sub: CG
   sub1: GP
 
 
