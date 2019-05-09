@@ -153,7 +153,7 @@
           $('#{{conf.id}} .deadline-time').html("TBA");
         {% else %}
           // adjust date according to deadline timezone
-                    var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
+          var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
           var confDate = moment.tz("{{conf.deadline}}", timezone);
           
           // render countdown timer
@@ -188,6 +188,7 @@
             $('#{{conf.id}}').addClass('past');
         {% endif %}
         {% endfor %}
+        
         // Get subjects from URL
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
