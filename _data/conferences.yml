@@ -21,6 +21,17 @@
   place: Melbourne, Australia
   sub: VR
   sub1: CG
+  
+- title: ICIG
+  year: 2019
+  id: icig2019
+  link: http://icig2019.csig.org.cn/
+  deadline: '2019-05-20 23:59:59'
+  timezone: UTC
+  date: August 23-25, 2019
+  place: Beijing, China
+  sub: CG
+  sub1:  
 
 - title: Pacific Graphics
   year: 2019
