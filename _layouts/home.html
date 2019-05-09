@@ -231,24 +231,7 @@
           // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
-        // Event handler on sub click
-        $('.conf-sub').click(function(e) {
-          var csub = $(this).data('sub');
-          for (var i = 0; i < subs.length; i++) {
-            if (subs[i] != csub) {
-              $('#' + subs[i] + '-checkbox').prop('checked', false);
-              $('.' + subs[i] + '-conf').hide();
-            }
-            else {
-              $('#' + subs[i] + '-checkbox').prop('checked', true);
-              $('.' + subs[i] + '-conf').show();
-            }
-          }
-          subs = [csub];
-          console.log(subs);
-          store.set('{{ site.domain }}', subs);
-          window.history.pushState('', '', '/?sub=' + subs.join());
-        });
+        
     });
     <!-- Google analytics -->
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
