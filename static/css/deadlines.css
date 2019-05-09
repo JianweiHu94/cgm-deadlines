@@ -138,6 +138,14 @@ footer {
   cursor: pointer;
   font-weight: 300;
 }
+.conf-sub1 {
+  color: rgb(36, 101, 191);
+  background: rgba(236, 240, 241, 0.7);
+  font-size: 13px;
+  padding: 3px 5px;
+  cursor: pointer;
+  font-weight: 300;
+}
 
 .conf-sub::selection {
   background: #0097e6;
