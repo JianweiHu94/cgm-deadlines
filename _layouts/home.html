@@ -182,7 +182,7 @@
 
         // Get subjects from URL
         var url = new URL(window.location);
-        var subs = url.searchParams.get('sub');
+        var subs = url.searchParams.get('sub1');
         if (subs == undefined) {
            subs = store.get('{{ site.domain }}');
         } else {
@@ -239,7 +239,7 @@
 
         // Event handler on sub click
         $('.conf-sub').click(function(e) {
-          var csub = $(this).data('sub');
+          var csub = $(this).data('sub1');
           var csub1 = $(this).data('sub1');
           for (var i = 0; i < subs.length; i++) {
             if (subs[i] != csub && subs[i] != csub1) {
