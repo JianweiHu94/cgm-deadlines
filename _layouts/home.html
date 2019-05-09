@@ -234,8 +234,9 @@
         // Event handler on sub click
         $('.conf-sub').click(function(e) {
           var csub = $(this).data('sub');
+          var csub1 = $(this).data('sub1');
           for (var i = 0; i < subs.length; i++) {
-            if (subs[i] != csub) {
+            if (subs[i] != csub && subs[i] != csub1) {
               $('#' + subs[i] + '-checkbox').prop('checked', false);
               $('.' + subs[i] + '-conf').hide();
             }
