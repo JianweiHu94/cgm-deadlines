@@ -216,15 +216,6 @@
         }
         {% endfor %}
         
-        //$('#' + 'sigasia2019').hide();
-        // Hide current conf
-        //for (var i = 0; i < subs.length; i++){
-        //  if ({{conf.sub}} == subs[i] || {{conf.sub1}} == subs[i])
-        //    $('.').show();
-        //}
-        //store.set('{{ site.domain }}', subs);
-
-        
         // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
 
         // Event handler on checkbox change
@@ -243,6 +234,21 @@
           }
           console.log(subs);
           store.set('{{ site.domain }}', subs);
+          $('#' + confid).hide();
+          {% for conf in site.data.conferences %}{
+          
+          var confid = "{{conf.id}}";
+          var confsub = "{{conf.sub}}";
+          var confsub1 = {% if conf.sub1 %}"{{conf.sub1}}" {% else %} "{{conf.sub}}" {% endif %};
+          for (var i = 0 ; i < subs.length; i++){
+            if (confsub == subs[i] || confsub1 == subs[i])
+              $('#' + confid).show();
+          }
+                                                                                      
+          
+        }
+        {% endfor %}
+          
           // hjw  window.history.pushState('', '', '/?sub=' + subs.join());
         });
 
