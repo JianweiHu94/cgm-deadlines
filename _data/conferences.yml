@@ -110,16 +110,6 @@
   sub: V
   sub1: 
 
-- title: IEEE VIS
-  year: 2019
-  id: ieeevis2019
-  link: http://ieeevis.org/year/2019/welcome
-  deadline: '2019-03-31 23:59:59'
-  timezone: UTC/GMT
-  date: October 20-25, 2019
-  place: Vancouver, Canada
-  sub: V
-  sub1: 
 
 - title: SPM
   year: 2019
@@ -165,6 +155,17 @@
   place: Calgary, Canada
   sub: GP
   sub1: GP
+
+- title: IEEE VIS
+  year: 2019
+  id: ieeevis2019
+  link: http://ieeevis.org/year/2019/welcome
+  deadline: '2019-03-31 23:59:59'
+  timezone: UTC/GMT
+  date: October 20-25, 2019
+  place: Vancouver, Canada
+  sub: V
+  sub1: 
 
 - title: ACMMM
   year: 2019
