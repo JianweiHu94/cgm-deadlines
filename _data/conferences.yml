@@ -1,37 +1,5 @@
 ---
 
-- title: SIGGRAPH ASIA
-  year: 2019
-  id: sigasia2019
-  link: https://sa2019.siggraph.org
-  deadline: '2019-05-20 22:00:00'
-  timezone: UTC/GMT
-  date: November 17-20, 2019
-  place: Brisbane, Australia
-  sub: GP
-  sub1: CG
-
-- title: ICIG
-  year: 2019
-  id: icig2019
-  link: http://icig2019.csig.org.cn/
-  deadline: '2019-05-20 23:59:59'
-  timezone: UTC-8
-  date: August 23-25, 2019
-  place: Beijing, China
-  sub: CG
-  sub1: 
-
-- title: VRIP
-  year: 2019
-  id: virp2019
-  link: http://www.vrip.org/
-  deadline: '2019-05-20 23:59:59'
-  timezone: 
-  date: August 22-24, 2019
-  place: Melbourne, Australia
-  sub: VR
-  sub1: CG
   
 - title: Pacific Graphics
   year: 2019
@@ -42,18 +10,18 @@
   date: October 14-17, 2019
   place: Seoul, Korea
   sub: GP
-  sub1: GP
-
-- title: EuroGraphics
-  year: 2019
-  id: eg2019
-  link: https://www.eurographics2019.it
-  deadline: '2018-10-02 23:59:59'
-  timezone: UTC
-  date: May 06-10, 2019
-  place: Genova, Italy
-  sub: CG
-  sub1: GP
+  sub1: CG
+ 
+- title: Multimedia Modeling
+  year: 2020
+  id: mmm2020
+  link: http://www.mmm2020.kr/
+  deadline: '2019-06-12 23:59:59'
+  timezone: 
+  date: January 5-8, 2020
+  place: Daejeon, Korea
+  sub: MM
+  sub1: MM
 
 - title: I3D
   year: 2019
@@ -198,3 +166,36 @@
   place: Strasbourg, France
   sub: GP
   sub1: GP
+  
+- title: SIGGRAPH ASIA
+  year: 2019
+  id: sigasia2019
+  link: https://sa2019.siggraph.org
+  deadline: '2019-05-20 22:00:00'
+  timezone: UTC/GMT
+  date: November 17-20, 2019
+  place: Brisbane, Australia
+  sub: GP
+  sub1: CG
+
+- title: ICIG
+  year: 2019
+  id: icig2019
+  link: http://icig2019.csig.org.cn/
+  deadline: '2019-05-20 23:59:59'
+  timezone: UTC-8
+  date: August 23-25, 2019
+  place: Beijing, China
+  sub: CG
+  sub1: 
+
+- title: VRIP
+  year: 2019
+  id: virp2019
+  link: http://www.vrip.org/
+  deadline: '2019-05-20 23:59:59'
+  timezone: 
+  date: August 22-24, 2019
+  place: Melbourne, Australia
+  sub: VR
+  sub1: CG
