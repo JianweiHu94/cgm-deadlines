@@ -14,14 +14,14 @@
 
 - title: 3D Vision
   year: 2019
-  id: 20193dv
-  link: http://pg19.org/
-  deadline: '2019-06-07 23:59:59'
+  id: 3dv
+  link: http://3dv19.gel.ulaval.ca/index.html
+  deadline: '2019-06-10 23:59:59'
   timezone: 
-  date: October 14-17, 2019
-  place: Seoul, Korea
-  sub: GP
-  sub1: CG
+  date: September 16-19, 2019
+  place: Quebec, Canada
+  sub: V
+  sub1: V
 
 
 - title: VRCAI
