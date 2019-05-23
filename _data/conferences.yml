@@ -12,15 +12,17 @@
   sub: GP
   sub1: CG
 
-- title: 3D Vision
+- title: Pacific Graphics
   year: 2019
-  id: 3dv2019
-  link: http://3dv19.gel.ulaval.ca/index.html
-  deadline: '2019-06-10 23:59:59'
+  id: pg2019
+  link: http://pg19.org/
+  deadline: '2019-06-07 23:59:59'
   timezone: 
-  date: September 16-19, 2019
-  place: Quebec, Canada
-  sub: V
+  date: October 14-17, 2019
+  place: Seoul, Korea
+  sub: GP
+  sub1: CG
+
 
 - title: VRCAI
   year: 2019
