@@ -12,6 +12,17 @@
   sub: GP
   sub1: CG
  
+- title: 3D Vision
+  year: 2019
+  id: 3dv2019
+  link: http://3dv19.gel.ulaval.ca/index.html
+  deadline: '2019-06-10 23:59:59'
+  timezone: 
+  date: September 16-19, 2019
+  place: Québec, Canada
+  sub: CG
+  sub1: V
+  
 - title: Multimedia Modeling
   year: 2020
   id: mmm2020
@@ -22,6 +33,17 @@
   place: Daejeon, Korea
   sub: MM
   sub1: MM
+
+- title: VRCAI
+  year: 2019
+  id: vrcai2019
+  link: https://vrcai.siggraph.org/
+  deadline: '2019-09-18 23:59:59'
+  timezone: 
+  date: November  14-16, 2019
+  place: Brisbane, Australia
+  sub: VR
+  sub1: VR
 
 - title: I3D
   year: 2019
