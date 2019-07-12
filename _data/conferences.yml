@@ -11,7 +11,18 @@
   sub: VR
   sub1: VR
 
-- title: Eurographics 2020
+- title: CHI
+  year: 2020
+  id: chi2020
+  link: https://chi2020.acm.org/
+  deadline: '2019-09-20 23:59:59'
+  timezone: UTC-10
+  date: April 25-30, 2020
+  place: Honolulu, USA
+  sub: HCI
+  sub1: HCI
+
+- title: Eurographics
   year: 2020
   id: eg2020
   link: https://conferences.eg.org/egev20/
@@ -22,7 +33,7 @@
   sub: CG
   sub1: V
 
-- title: Eurovis 2020
+- title: Eurovis
   year: 2020
   id: ev2020
   link: https://conferences.eg.org/egev20/
