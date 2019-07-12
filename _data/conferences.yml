@@ -1,39 +1,5 @@
 ---
 
-  
-- title: Pacific Graphics
-  year: 2019
-  id: pg2019
-  link: http://pg19.org/
-  deadline: '2019-06-07 23:59:59'
-  timezone: UTC+9
-  date: October 14-17, 2019
-  place: Seoul, Korea
-  sub: GP
-  sub1: CG
-
-- title: 3D Vision
-  year: 2019
-  id: asd
-  link: http://3dv19.gel.ulaval.ca/index.html
-  deadline: '2019-06-10 23:59:59'
-  timezone: UTC-5
-  date: September 16-19, 2019
-  place: Quebec, Canada
-  sub: GP
-  sub1: CG
-
-- title: Multimedia Modeling
-  year: 2020
-  id: mmm2020
-  link: http://www.mmm2020.kr/
-  deadline: '2019-07-12 23:59:59'
-  timezone: UTC+9
-  date: January 5-8, 2020
-  place: Daejeon, Korea
-  sub: MM
-  sub1: MM
-  
 - title: VRCAI
   year: 2019
   id: vrcai2019
@@ -44,6 +10,28 @@
   place: Brisbane, Australia
   sub: VR
   sub1: VR
+
+- title: Eurographics 2020
+  year: 2020
+  id: eg2020
+  link: https://conferences.eg.org/egev20/
+  deadline: '2019-10-03 23:59:59'
+  timezone: GMT
+  date: May 25-29, 2020
+  place: Norrköping, Sweden
+  sub: CG
+  sub1: V
+
+- title: Eurovis 2020
+  year: 2020
+  id: ev2020
+  link: https://conferences.eg.org/egev20/
+  deadline: '2019-12-05 23:59:59'
+  timezone: GMT
+  date: May 25-29, 2020
+  place: Norrköping, Sweden
+  sub: V
+  sub1: CG
 
 - title: I3D
   year: 2019
@@ -222,3 +210,36 @@
   place: Melbourne, Australia
   sub: VR
   sub1: CG
+
+- title: Pacific Graphics
+  year: 2019
+  id: pg2019
+  link: http://pg19.org/
+  deadline: '2019-06-07 23:59:59'
+  timezone: UTC+9
+  date: October 14-17, 2019
+  place: Seoul, Korea
+  sub: GP
+  sub1: CG
+
+- title: 3D Vision
+  year: 2019
+  id: asd
+  link: http://3dv19.gel.ulaval.ca/index.html
+  deadline: '2019-06-10 23:59:59'
+  timezone: UTC-5
+  date: September 16-19, 2019
+  place: Quebec, Canada
+  sub: GP
+  sub1: CG
+
+- title: Multimedia Modeling
+  year: 2020
+  id: mmm2020
+  link: http://www.mmm2020.kr/
+  deadline: '2019-07-12 23:59:59'
+  timezone: UTC+9
+  date: January 5-8, 2020
+  place: Daejeon, Korea
+  sub: MM
+  sub1: MM
