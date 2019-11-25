@@ -14,6 +14,17 @@
   sub: V
   sub1: CG
 
+- title: IJCAI
+  year: 2020
+  id: ijcai2020
+  link: http://www.ijcai20.org/
+  deadline: '2020-01-12 23:59:59'
+  timezone: UTC-12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: V
+  sub1: CG
+
 - title: I3D
   year: 2019
   id: i3d2019
