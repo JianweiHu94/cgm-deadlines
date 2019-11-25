@@ -1,37 +1,7 @@
 ---
 
-- title: VRCAI
-  year: 2019
-  id: vrcai2019
-  link: https://vrcai.siggraph.org/
-  deadline: '2019-09-18 23:59:59'
-  timezone: UTC+10
-  date: November  14-16, 2019
-  place: Brisbane, Australia
-  sub: VR
-  sub1: VR
 
-- title: CHI
-  year: 2020
-  id: chi2020
-  link: https://chi2020.acm.org/
-  deadline: '2019-09-20 23:59:59'
-  timezone: UTC-10
-  date: April 25-30, 2020
-  place: Honolulu, USA
-  sub: HCI
-  sub1: HCI
 
-- title: Eurographics
-  year: 2020
-  id: eg2020
-  link: https://conferences.eg.org/egev20/
-  deadline: '2019-10-03 23:59:59'
-  timezone: GMT
-  date: May 25-29, 2020
-  place: Norrköping, Sweden
-  sub: CG
-  sub1: V
 
 - title: Eurovis
   year: 2020
@@ -254,3 +224,37 @@
   place: Daejeon, Korea
   sub: MM
   sub1: MM
+
+- title: VRCAI
+  year: 2019
+  id: vrcai2019
+  link: https://vrcai.siggraph.org/
+  deadline: '2019-09-18 23:59:59'
+  timezone: UTC+10
+  date: November  14-16, 2019
+  place: Brisbane, Australia
+  sub: VR
+  sub1: VR
+
+- title: CHI
+  year: 2020
+  id: chi2020
+  link: https://chi2020.acm.org/
+  deadline: '2019-09-20 23:59:59'
+  timezone: UTC-10
+  date: April 25-30, 2020
+  place: Honolulu, USA
+  sub: HCI
+  sub1: HCI
+
+
+- title: Eurographics
+  year: 2020
+  id: eg2020
+  link: https://conferences.eg.org/egev20/
+  deadline: '2019-10-03 23:59:59'
+  timezone: GMT
+  date: May 25-29, 2020
+  place: Norrköping, Sweden
+  sub: CG
+  sub1: V
