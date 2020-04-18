@@ -1,7 +1,26 @@
 ---
 
+- title: SIGGRAPH Asia
+  year: 2020
+  id: siggraph-asia20
+  link: https://sa2020.siggraph.org/en/
+  deadline: '2020-05-22 22:00:00'
+  timezone: UTC
+  date: November 17-22, 2020
+  place: Daegu, South Korea
+  sub: CG
 
-
+- title: NeurIPS
+  year: 2020
+  id: neurips20
+  link: https://nips.cc/Conferences/2020
+  deadline: '2020-06-03 13:00:00'
+  abstract_deadline: '2020-05-27 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 6-12, 2020
+  place: Vancouver Convention Centre, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020'
 
 - title: Eurovis
   year: 2020
