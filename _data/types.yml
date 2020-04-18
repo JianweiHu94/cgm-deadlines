@@ -16,3 +16,9 @@
 
 - name: Visualization
   sub: V
+  
+- name: Computer Vision
+  sub: CV
+  
+- name: Artificial intelligence
+  sub: AI
