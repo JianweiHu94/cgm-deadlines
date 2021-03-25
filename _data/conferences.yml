@@ -10,6 +10,16 @@
   place: Chengdu, China
   sub: MM
 
+- title: SGP
+  year: 2021
+  id: sgp21
+  link: https://sgp2021.github.io/
+  deadline: '2021-04-23 23:59:59'
+  timezone: UTC
+  date: July 12-14, 2021
+  place: Toronto, Canada
+  sub: GP
+
 - title: SIGGRAPH Asia
   year: 2020
   id: siggraph-asia20
