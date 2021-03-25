@@ -30,17 +30,6 @@
   place: Daegu, South Korea
   sub: CG
 
-- title: NeurIPS
-  year: 2020
-  id: neurips20
-  link: https://nips.cc/Conferences/2020
-  deadline: '2020-06-03 13:00:00'
-  abstract_deadline: '2020-05-27 13:00:00'
-  timezone: America/Los_Angeles
-  date: December 6-12, 2020
-  place: Vancouver Convention Centre, Canada
-  sub: AI
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020'
 
 - title: Eurovis
   year: 2020
@@ -106,8 +95,8 @@
   timezone: UTC
   date: June 19-21, 2019
   place: Vancouver, Canada
-  sub: GP
-  sub1: GP
+  sub:CG
+  sub1: CG
 
 - title: GRAPHICS INTERFACE
   year: 2019
@@ -118,7 +107,6 @@
   date: May 28-31, 2019
   place: Ontario, Canada
   sub: CG
-  sub1: GP
 
 - title: EUROVIS
   year: 2019
@@ -140,8 +128,8 @@
   timezone: 
   date: June 17-19, 2019
   place: Vancouver, Canada
-  sub: GP
-  sub1: GP
+  sub: CG
+
 
 - title: HPG
   year: 2019
@@ -152,7 +140,7 @@
   date: July 08-10, 2019
   place: Strasbourg, France
   sub: CG
-  sub1: GP
+
 
 
 - title: SCA
@@ -163,8 +151,8 @@
   timezone: UTC
   date: July 26-28, 2019
   place: Los Angeles, California
-  sub: GP
-  sub1: GP
+  sub: CG
+
 
 - title: CGI
   year: 2019
@@ -174,8 +162,8 @@
   timezone: UTC
   date: June 17-20, 2019
   place: Calgary, Canada
-  sub: GP
-  sub1: GP
+  sub: CG
+
 
 - title: IEEE VIS
   year: 2019
@@ -196,7 +184,7 @@
   date: October 21-25, 2019
   place: Nice, France
   sub: MM
-  sub1: GP
+  sub1: CG
   
 - title: SGP
   year: 2019
@@ -206,8 +194,8 @@
   timezone: UTC/GMT
   date: July 08-10, 2019
   place: Milan, Italy
-  sub: GP
-  sub1: GP
+  sub: CG
+  sub1: CG
 
 - title: EGSR
   year: 2019
@@ -217,8 +205,8 @@
   timezone: UTC
   date: July 10-12, 2019
   place: Strasbourg, France
-  sub: GP
-  sub1: GP
+  sub: CG
+
   
 - title: SIGGRAPH ASIA
   year: 2019
@@ -228,8 +216,7 @@
   timezone: UTC/GMT
   date: November 17-20, 2019
   place: Brisbane, Australia
-  sub: GP
-  sub1: CG
+  sub: CG
 
 - title: ICIG
   year: 2019
@@ -261,7 +248,7 @@
   timezone: UTC+9
   date: October 14-17, 2019
   place: Seoul, Korea
-  sub: GP
+  sub: CG
   sub1: CG
 
 - title: 3D Vision
@@ -272,7 +259,7 @@
   timezone: UTC-5
   date: September 16-19, 2019
   place: Quebec, Canada
-  sub: GP
+  sub: CG
   sub1: CG
 
 - title: Multimedia Modeling
