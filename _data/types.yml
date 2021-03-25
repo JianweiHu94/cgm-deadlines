@@ -1,6 +1,4 @@
 ---
-- name: Geometry Processing
-  sub: GP
   
 - name: Computer Graphics
   sub: CG
@@ -19,6 +17,3 @@
   
 - name: Computer Vision
   sub: CV
-  
-- name: Artificial intelligence
-  sub: AI
