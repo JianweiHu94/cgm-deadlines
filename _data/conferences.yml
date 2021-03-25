@@ -1,5 +1,15 @@
 ---
 
+- title: ACMMM
+  year: 2021
+  id: acm-mm21
+  link: https://2021.acmmm.org/
+  deadline: '2021-04-17 23:59:59'
+  timezone: UTC
+  date: October 20-24, 2021
+  place: Chengdu, China
+  sub: MM
+
 - title: SIGGRAPH Asia
   year: 2020
   id: siggraph-asia20
