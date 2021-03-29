@@ -1,6 +1,6 @@
 ---
 
--title: VIS
+- title: VIS
   year: 2021
   id: ieee-vis
   link: http://ieeevis.org/year/2021/welcome
@@ -40,7 +40,7 @@
   place: Toronto, Canada
   sub: CG
   
- - title: PG
+- title: PG
   year: 2021
   id: pg2021
   link: https://pg2020.org/
