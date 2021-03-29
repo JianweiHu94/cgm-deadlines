@@ -246,6 +246,58 @@
             $('#' + confid).show();
           else
             $('#' + confid).hide();
+                {% if conf.deadline == "TBA" %}
+          $('#{{conf.id}} .timer').html("TBA");
+          $('#{{conf.id}} .deadline-time').html("TBA");
+        {% else %}
+          // adjust date according to deadline timezone
+          var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
+          var confDate = moment.tz("{{conf.deadline}}", timezone);
+
+          // render countdown timer
+          $('#{{conf.id}} .timer').countdown(confDate.toDate(), function(event) {
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          });
+
+          // convert deadline to local timezone
+          try {
+            var localConfDate = moment.tz(confDate, local_timezone);
+            $('#{{conf.id}} .deadline-time').html(localConfDate.toString());
+          }
+          catch(err) {
+            console.log("Error converting to local timezone.");
+          }
+
+          // add calendar button
+          var myCalendar = createCalendar({
+            options: {
+              class: 'calendar-obj',
+
+              // You can pass an ID. If you don't, one will be generated for you
+              id: '{{conf.id}}'
+            },
+            data: {
+              // Event title
+              title: '{{conf.title}} {{conf.year}} deadline',
+
+              // Event start date
+              start: confDate.toDate(), // new Date('June 15, 2013 19:00'),
+
+              // Event duration
+              duration: 60,
+            }
+          });
+          document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
+
+          // check if date has passed, add 'past' class to it
+          var today = moment();
+          diff = today.diff(confDate)
+          $('#{{conf.id}}').attr("diff", diff)
+          if (diff > 0) {
+            $('#{{conf.id}}').addClass('past');
+            $('#{{conf.id}}').appendTo($("#past_confs"))
+          }
+        {% endif %}
         {% endfor %}
  
         
