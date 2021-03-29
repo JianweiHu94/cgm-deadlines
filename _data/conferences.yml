@@ -20,6 +20,16 @@
   place: Chengdu, China
   sub: MM
 
+- title: SGP
+  year: 2021
+  id: sgp21
+  link: https://sgp2021.github.io/
+  deadline: '2021-04-23 23:59:59'
+  timezone: UTC
+  date: July 12-14, 2021
+  place: Toronto, Canada
+  sub: CG
+
 - title: Siggraph Asia
   year: 2021
   id: sig-asia21
@@ -30,15 +40,7 @@
   place: Tokyo, Japan
   sub: CG
 
-- title: SGP
-  year: 2021
-  id: sgp21
-  link: https://sgp2021.github.io/
-  deadline: '2021-04-23 23:59:59'
-  timezone: UTC
-  date: July 12-14, 2021
-  place: Toronto, Canada
-  sub: CG
+
   
 - title: PG
   year: 2021
