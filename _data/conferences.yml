@@ -1,15 +1,4 @@
 ---
-- title: SMI
-  year: 2021
-  id: smi21
-  link: https://smi2021.github.io/
-  deadline: '2021-06-30 23:59:59'
-  timezone: UTC-12
-  date: November 14-16, 2021
-  place: Online
-  sub: CG
-
-
 
 - title: Siggraph Asia
   year: 2021
@@ -32,6 +21,17 @@
   place: Wellington, New Zealand 
   date: October 18-21, 2021
   sub: CG
+
+- title: SMI
+  year: 2021
+  id: smi21
+  link: https://smi2021.github.io/
+  deadline: '2021-06-30 23:59:59'
+  timezone: UTC-12
+  date: November 14-16, 2021
+  place: Online
+  sub: CG
+
 
 - title: VIS
   year: 2021
