@@ -1,5 +1,17 @@
 ---
 
+- title:SGP
+  year: 2022
+  id: sgp22
+  link: https://sgp2022.github.io/
+  deadline: '2022-04-11 21:59:59'
+  timezone: UTC/GMT
+  date: July 4-17, 2021
+  place: Online
+  sub: CG
+
+
+
 - title: Siggraph Asia
   year: 2021
   id: sig-asia21
