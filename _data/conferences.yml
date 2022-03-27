@@ -18,19 +18,29 @@
   deadline: '2022-05-19 01:00:00'
   timezone: PDT
   place: New Orleans, Louisiana, USA; and virtual.
-  date: November 18-21, 2021
+  date: November 18-21, 2022
   sub: CV
 
-- title: SMI
-  year: 2021
-  id: smi21
-  link: https://smi2021.github.io/
-  deadline: '2021-06-30 23:59:59'
+- title: Siggraph Asia 
+  year: 2022
+  id: sig_asia2022
+  link: https://sa2022.siggraph.org/en/submissions/technical-papers
+  deadline: '2022-05-21 23:59:59'
   timezone: UTC/GMT
-  date: November 14-16, 2021
+  date: December 6-9, 2022
   place: Online
   sub: CG
 
+
+- title: Pacific Gaphics 
+  year: 2022
+  id: pg2022
+  link: https://pg2022.org/#CFP
+  deadline: '2022-06-10 23:59:59'
+  timezone: UTC/GMT
+  date: October 5-8, 2022
+  place: Kyoto, Japan
+  sub: CG
 
 - title: VIS
   year: 2021
