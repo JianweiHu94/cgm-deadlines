@@ -11,17 +11,15 @@
   place: Online
   sub: CG
 
-
-  
-- title: PG
-  year: 2021
-  id: pg2021
-  link: https://pg2021.org/
-  deadline: '2021-06-02 23:59:59'
-  timezone: UTC
-  place: Wellington, New Zealand 
-  date: October 18-21, 2021
-  sub: CG
+- title: NeurIPS 
+  year: 2022
+  id: nips2022
+  link: https://neurips.cc/Conferences/2022/
+  deadline: '2022-05-19 01:00:00'
+  timezone: PDT
+  place: New Orleans, Louisiana, USA; and virtual.
+  date: November 18-21, 2021
+  sub: CV
 
 - title: SMI
   year: 2021
