@@ -10,11 +10,91 @@
   place: Paris, France
   sub: CV
 
+- title: SMI 
+  year: 2023
+  id: smi2023
+  link: 
+  deadline: '2023-03-20 23:59:00'
+  timezone: GMT
+  date: 
+  place: 
+  sub: CG
+
+- title: EGSR 
+  year: 2023
+  id: egsr2023
+  link: https://conferences.eg.org/egsr2023/
+  deadline: '2023-04-12 23:59:00'
+  timezone: GMT
+  date: June 28-30, 2023
+  place: Delft, Netherlands
+  sub: CG
+  
+- title: SGP 
+  year: 2023
+  id: sgp2023
+  link: https://sgp2023.github.io/
+  deadline: '2023-04-12 23:59:00'
+  timezone: UTC
+  date: July 3-5, 2023
+  place: Genova, Italy
+  sub: CG
+
+- title: CAD/Graphics 
+  year: 2023
+  id: cadg2023
+  link: 
+  deadline: '2023-04-28 23:59:00'
+  timezone: UTC
+  date: 
+  place: Shanghai, China
+  sub: CG
+
+- title: ACM MM 
+  year: 2023
+  id: acmmm023
+  link: https://www.acmmm2023.org/
+  deadline: '2023-04-30 23:59:00'
+  timezone: UTC-12
+  date: October 28 – November 3, 2023
+  place: Ottawa, Canada
+  sub: MM
+  
+- title: NeurIPS 
+  year: 2023
+  id: nips023
+  link: https://neurips.cc/
+  deadline: '2023-05-17 20:00:00'
+  timezone: UTC
+  date: December 12 – December 14, 2023
+  place: 
+  sub: CV
+
+- title: Siggraph Asia  
+  year: 2023
+  id: sig_asisa2023
+  link: https://asia.siggraph.org/2023/
+  deadline: '2023-05-16 23:59:00'
+  timezone: UTC-12
+  date: December 12 – December 15, 2023
+  place: Sydney, Australia
+  sub: CG
+
+- title: Pacific Graphics  
+  year: 2023
+  id: pg2023
+  link: 
+  deadline: '2023-06-06 23:59:00'
+  timezone: UTC-12
+  date: 
+  place: 
+  sub: CG
+
 - title: Siggraph Asia 
   year: 2022
   id: sig_asia2022
   link: https://sa2022.siggraph.org/en/submissions/technical-papers
-  deadline: '2022-05-20 23:59:00'
+  deadline: '2022-05-16 23:59:00'
   timezone: UTC-12
   date: December 6-9, 2022
   place: Daegu, South Korea
