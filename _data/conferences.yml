@@ -4,10 +4,20 @@
   year: 2024
   id: cvpr2024
   link: https://cvpr.thecvf.com/
-  deadline: '2023-11-11 15:59:59'
-  timezone: GMT+8
+  deadline: '2023-11-10 23:59:59'
+  timezone: America/Los_Angeles
   date: June 17-21, 2024
   place: Seattle, Washington, USA.
+  sub: CV
+
+- title: ECCV
+  year: 2024
+  id: eccv24
+  link: https://eccv2024.ecva.net/
+  deadline: '2024-03-07 23:59:00'
+  timezone: UTC-12
+  place: Milano, Italy
+  date: September 29 - October 04, 2024
   sub: CV
 
 - title: ICCV 
