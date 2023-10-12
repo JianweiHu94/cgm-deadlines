@@ -4,10 +4,10 @@
   year: 2024
   id: cvpr2024
   link: https://cvpr.thecvf.com/
-  deadline: '2023-11-10 23:59:00'
-  timezone: UTC-8
-  date: June 19-21, 2024
-  place: Seattle, USA
+  deadline: '2023-11-11 15:59:59'
+  timezone: GMT+8
+  date: June 17-21, 2024
+  place: Seattle, Washington, USA.
   sub: CV
 
 - title: ICCV 
