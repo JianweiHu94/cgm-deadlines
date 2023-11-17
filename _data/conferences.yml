@@ -33,8 +33,8 @@
   year: 2024
   id: eccv2024
   link: https://eccv2024.ecva.net/
-  deadline: '2024-03-07 13:00:00'
-  timezone: PST
+  deadline: '2024-03-07 12:59:59'
+  timezone: GMT-8
   date: September 29 - October 4, 2023
   place: Milano, Italy.
   sub: CV
