@@ -14,7 +14,7 @@
   year: 2024
   id: cvpr2024
   link: https://cvpr.thecvf.com/
-  deadline: '2023-11-10 23:59:59'
+  deadline: '2023-11-17 23:59:59'
   timezone: America/Los_Angeles
   date: June 17-21, 2024
   place: Seattle, Washington, USA.
@@ -26,9 +26,19 @@
   link: https://pg2024.hsu.edu.cn/
   deadline: '2024-05-01 23:59:00'
   timezone: UTC-12
-  place: Huangshan, China
+  place: Huangshan, China.
   date: October 13 - October 16, 2024
   sub: CG
+  
+- title: ICME 
+  year: 2024
+  id: icme2024
+  link: https://2024.ieeeicme.org/
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC
+  date: July 15-19, 2024
+  place: Niagara Falls Marriott, Niagara Falls, Canada.
+  sub: MM
 
 - title: GMP 
   year: 2024
