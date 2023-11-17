@@ -1,15 +1,4 @@
 ---
-
-- title: GMP 
-  year: 2024
-  id: gmp2024
-  link: https://irc.cs.sdu.edu.cn/gmp2024/index.html
-  deadline: '2023-12-18 23:59:59'
-  timezone: UTC
-  date: June 5-7, 2024
-  place: Qingdao, Shandong, China.
-  sub: CG
-
 - title: CVPR 
   year: 2024
   id: cvpr2024
@@ -20,16 +9,6 @@
   place: Seattle, Washington, USA.
   sub: CV
 
-- title: PG
-  year: 2024
-  id: pg24
-  link: https://pg2024.hsu.edu.cn/
-  deadline: '2024-05-01 23:59:00'
-  timezone: UTC-12
-  place: Huangshan, China.
-  date: October 13 - October 16, 2024
-  sub: CG
-  
 - title: ICME 
   year: 2024
   id: icme2024
@@ -49,6 +28,27 @@
   date: June 5-7, 2024
   place: Qingdao, Shandong, China.
   sub: CG
+
+- title: ECCV 
+  year: 2024
+  id: eccv2024
+  link: https://eccv2024.ecva.net/
+  deadline: '2023-03-07 23:59:59'
+  timezone: UTC-5
+  date: September 29 - October 4, 2023
+  place: Milano, Italy.
+  sub: CV
+
+- title: PG
+  year: 2024
+  id: pg24
+  link: https://pg2024.hsu.edu.cn/
+  deadline: '2024-05-01 23:59:00'
+  timezone: UTC-12
+  place: Huangshan, China.
+  date: October 13 - October 16, 2024
+  sub: CG
+  
 
 - title: ICCV 
   year: 2023
