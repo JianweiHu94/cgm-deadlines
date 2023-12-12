@@ -1,5 +1,23 @@
 ---
+- title: ICME 
+  year: 2024
+  id: icme2024
+  link: https://2024.ieeeicme.org/
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC
+  date: July 15-19, 2024
+  place: Niagara Falls Marriott, Niagara Falls, Canada.
+  sub: MM
 
+- title: GMP 
+  year: 2024
+  id: gmp2024
+  link: https://irc.cs.sdu.edu.cn/gmp2024/index.html
+  deadline: '2023-12-18 23:59:59'
+  timezone: UTC
+  date: June 5-7, 2024
+  place: Qingdao, Shandong, China.
+  sub: CG
 
 - title: I3D 
   year: 2024
@@ -31,6 +49,17 @@
   place: CAMPUS BIOTECH, GENEVA, SWITZERLAND.
   sub: CG
 
+
+- title: ECCV 
+  year: 2024
+  id: eccv2024
+  link: https://eccv2024.ecva.net/
+  deadline: '2024-03-07 20:59:59'
+  timezone: GMT+8
+  date: September 29 - October 4, 2023
+  place: Milano, Italy.
+  sub: CV
+
 - title: SMI 
   year: 2024
   id: smi2024
@@ -51,35 +80,8 @@
   place: Cambridge, MA, USA.
   sub: CG
   
-- title: ICME 
-  year: 2024
-  id: icme2024
-  link: https://2024.ieeeicme.org/
-  deadline: '2023-12-15 23:59:59'
-  timezone: UTC
-  date: July 15-19, 2024
-  place: Niagara Falls Marriott, Niagara Falls, Canada.
-  sub: MM
 
-- title: GMP 
-  year: 2024
-  id: gmp2024
-  link: https://irc.cs.sdu.edu.cn/gmp2024/index.html
-  deadline: '2023-12-18 23:59:59'
-  timezone: UTC
-  date: June 5-7, 2024
-  place: Qingdao, Shandong, China.
-  sub: CG
 
-- title: ECCV 
-  year: 2024
-  id: eccv2024
-  link: https://eccv2024.ecva.net/
-  deadline: '2024-03-07 20:59:59'
-  timezone: GMT+8
-  date: September 29 - October 4, 2023
-  place: Milano, Italy.
-  sub: CV
 
 - title: PG
   year: 2024
