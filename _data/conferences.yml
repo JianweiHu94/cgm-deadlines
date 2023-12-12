@@ -1,4 +1,13 @@
 ---
+- title: SMI 
+  year: 2024
+  id: smi2024
+  link: https://i3dsymposium.org/2024/
+  deadline: '2024-3-29 23:59:59'
+  timezone: UTC
+  date: July 12-14, 2024
+  place: Detroit, Michigan, USA.
+  sub: CG
 
 - title: I3D 
   year: 2024
@@ -18,6 +27,16 @@
   timezone: UTC
   date: July 8-10, 2024
   place: Montreal, QC, Canada.
+  sub: CG
+
+- title: CGI 
+  year: 2024
+  id: cgi2024
+  link: https://www.cgs-network.org/cgi24/
+  deadline: '2024-2-10 23:59:59'
+  timezone: GMT 
+  date: July 1-5, 2024
+  place: CAMPUS BIOTECH, GENEVA, SWITZERLAND.
   sub: CG
 
 - title: SMI 
