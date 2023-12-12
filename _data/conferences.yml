@@ -1,12 +1,22 @@
 ---
 - title: SPM 
   year: 2024
-  id: icme2024
+  id: spm2024
   link: https://spmconf.github.io/SPM2024/CfP.html
   deadline: '2024-2-3 23:59:59'
   timezone: UTC
   date: July 8-10, 2024
   place: Montreal, QC, Canada.
+  sub: CG
+
+- title: SMI 
+  year: 2024
+  id: smi2024
+  link: https://smiconf.github.io/2024/index.html
+  deadline: '2024-3-25 23:59:59'
+  timezone: UTC
+  date: July 12-14, 2024
+  place:  Detroit, Michigan, USA.
   sub: CG
 
 - title: ICME 
