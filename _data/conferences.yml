@@ -1,5 +1,15 @@
 ---
 
+- title: I3D 
+  year: 2024
+  id: i3d2024
+  link: https://i3dsymposium.org/2024/
+  deadline: '2024-1-5 23:59:59'
+  timezone: UTC-7
+  date: May 8-10, 2024
+  place: Philadelphia, PA, USA.
+  sub: CG
+
 - title: SPM 
   year: 2024
   id: spm2024
