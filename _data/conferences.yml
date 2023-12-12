@@ -35,7 +35,7 @@
   id: ijcai2024
   link: https://ijcai24.org/
   deadline: '2024-1-17 23:59:59'
-  timezone: GMT-12
+  timezone: UTC-12
   date: Aug 3-9, 2024
   place:  Jeju, South Korea.
   sub: AI
