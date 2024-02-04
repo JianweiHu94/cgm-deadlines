@@ -1,44 +1,5 @@
 ---
 
-- title: GMP 
-  year: 2024
-  id: gmp2024
-  link: https://irc.cs.sdu.edu.cn/gmp2024/index.html
-  deadline: '2023-12-18 23:59:59'
-  timezone: UTC
-  date: June 5-7, 2024
-  place: Qingdao, Shandong, China.
-  sub: CG
-
-- title: ICME 
-  year: 2024
-  id: icme2024
-  link: https://2024.ieeeicme.org/
-  deadline: '2023-12-30 23:59:59'
-  timezone: UTC
-  date: July 15-19, 2024
-  place: Niagara Falls Marriott, Niagara Falls, Canada.
-  sub: MM
-
-- title: I3D 
-  year: 2024
-  id: i3d2024
-  link: https://i3dsymposium.org/2024/
-  deadline: '2024-1-5 23:59:59'
-  timezone: UTC-7
-  date: May 8-10, 2024
-  place: Philadelphia, PA, USA.
-  sub: CG
-
-- title: SIGGRAPH 
-  year: 2024
-  id: siggraph2024
-  link: https://sigir-2024.github.io/
-  deadline: '2024-1-24 22:00:00'
-  timezone: GMT
-  date: July 28 - Aug 1, 2024
-  place: Denver, USA.
-  sub: CG
 
 - title: SPM 
   year: 2024
@@ -103,7 +64,48 @@
   place: Huangshan, China.
   date: October 13 - October 16, 2024
   sub: CG
-  
+
+- title: GMP 
+  year: 2024
+  id: gmp2024
+  link: https://irc.cs.sdu.edu.cn/gmp2024/index.html
+  deadline: '2023-12-18 23:59:59'
+  timezone: UTC
+  date: June 5-7, 2024
+  place: Qingdao, Shandong, China.
+  sub: CG
+
+- title: ICME 
+  year: 2024
+  id: icme2024
+  link: https://2024.ieeeicme.org/
+  deadline: '2023-12-30 23:59:59'
+  timezone: UTC
+  date: July 15-19, 2024
+  place: Niagara Falls Marriott, Niagara Falls, Canada.
+  sub: MM
+
+- title: I3D 
+  year: 2024
+  id: i3d2024
+  link: https://i3dsymposium.org/2024/
+  deadline: '2024-1-5 23:59:59'
+  timezone: UTC-7
+  date: May 8-10, 2024
+  place: Philadelphia, PA, USA.
+  sub: CG
+
+- title: SIGGRAPH 
+  year: 2024
+  id: siggraph2024
+  link: https://sigir-2024.github.io/
+  deadline: '2024-1-24 22:00:00'
+  timezone: GMT
+  date: July 28 - Aug 1, 2024
+  place: Denver, USA.
+  sub: CG
+
+
 - title: CVPR 
   year: 2024
   id: cvpr2024
