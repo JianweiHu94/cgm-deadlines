@@ -31,6 +31,17 @@
   place: Milano, Italy.
   sub: CV
 
+
+- title: CAD/CG
+  year: 2024
+  id: cadcg24
+  link: https://easychair.org/conferences/?conf=cadcg2024
+  deadline: '2024-03-15 23:59:00'
+  timezone: UTC-12
+  place: Nanchang, China.
+  date: August 15 - August 18, 2024
+  sub: CG
+  
 - title: SMI 
   year: 2024
   id: smi2024
@@ -40,6 +51,17 @@
   date: July 12-14, 2024
   place:  Detroit, Michigan, USA.
   sub: CG
+
+- title: GDC
+  year: 2024
+  id: gdc24
+  link: http://www.smartchair.org/GDC2024/
+  deadline: '2024-04-02 23:59:00'
+  timezone: UTC-12
+  place: Nanchang, China.
+  date: August 15 - August 18, 2024
+  sub: CG
+
 
 - title: SGP 
   year: 2024
@@ -58,11 +80,22 @@
   year: 2024
   id: pg24
   link: https://pg2024.hsu.edu.cn/
-  deadline: '2024-05-01 23:59:00'
+  deadline: '2024-06-07 23:59:00'
   timezone: UTC-12
   place: Huangshan, China.
   date: October 13 - October 16, 2024
   sub: CG
+  
+- title: ChinaGraph
+  year: 2024
+  id: cg24
+  link: http://www.smartchair.org/Chinagraph2024/
+  deadline: '2024-06-09 23:59:00'
+  timezone: UTC-12
+  place: Huangshan, China.
+  date: October 13 - October 16, 2024
+  sub: CG
+
 
 - title: GMP 
   year: 2024
