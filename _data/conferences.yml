@@ -2,25 +2,6 @@
 
 
 
-- title: Siggraph Asia
-  year: 2024
-  id: sig_asisa2024
-  link: https://asia.siggraph.org/2024/
-  deadline: '2024-05-19 23:59:00'
-  timezone: UTC-12
-  date: December 3 – December 6, 2024
-  place: Tokyo, Japan. 
-  sub: CG
-
-- title: ACM MM
-  year: 2024
-  id: acmmm2024
-  link: https://2024.acmmm.org/
-  deadline: '2024-04-12 23:59:00'
-  timezone: UTC-12
-  date: October 28 - November 1, 2024
-  place:  Melbourne, Australia.
-  sub: MM
 
   
 - title: ECCV 
@@ -77,6 +58,26 @@
   
 
 
+
+- title: ACM MM
+  year: 2024
+  id: acmmm2024
+  link: https://2024.acmmm.org/
+  deadline: '2024-04-12 23:59:00'
+  timezone: UTC-12
+  date: October 28 - November 1, 2024
+  place:  Melbourne, Australia.
+  sub: MM
+
+- title: Siggraph Asia
+  year: 2024
+  id: sig_asisa2024
+  link: https://asia.siggraph.org/2024/
+  deadline: '2024-05-19 23:59:00'
+  timezone: UTC-12
+  date: December 3 – December 6, 2024
+  place: Tokyo, Japan. 
+  sub: CG
 
 - title: PG
   year: 2024
