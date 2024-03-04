@@ -5,12 +5,12 @@
   id: acmmm2024
   link: https://2024.acmmm.org/
   deadline: '2024-4-12 23:59:59'
-  timezone: UTC-12
+  timezone: GMT
   date: October 28 - November 1, 2024
   place: Melbourne, Australia.
   sub: MM
 
-- title: Siggraph Asia 2024
+- title: Siggraph Asia
   year: 2024
   id: sig_asisa2024
   link: https://asia.siggraph.org/2024/
