@@ -1,5 +1,16 @@
 ---
 
+- title: ACM MM 
+  year: 2024
+  id: acmmm2024
+  link: https://2024.acmmm.org/
+  deadline: '2024-4-12 23:59:59'
+  timezone: UTC-12 
+  date: October 28 - November 1, 2024
+  place: Melbourne, Australia.
+  sub: MM
+
+
 - title: CGI 
   year: 2024
   id: cgi2024
