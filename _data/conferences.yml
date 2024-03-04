@@ -10,6 +10,16 @@
   place: Melbourne, Australia.
   sub: MM
 
+- title: Siggraph Asia 2024
+  year: 2024
+  id: sig_asisa2024
+  link: https://asia.siggraph.org/2024/
+  deadline: '2023-05-16 23:59:00'
+  timezone: UTC-12
+  date: December 12 – December 15, 2023
+  place: Sydney, Australia
+  sub: CG
+
 - title: ECCV 
   year: 2024
   id: eccv2024
